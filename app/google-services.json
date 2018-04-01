@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "505178926255",
+    "firebase_url": "https://kerad-project.firebaseio.com",
+    "project_id": "kerad-project",
+    "storage_bucket": "kerad-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505178926255:android:91d12158da773bc0",
+        "android_client_info": {
+          "package_name": "com.last.RandyHidayat_1202154191_Modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505178926255-cib8r2sv2ml7rbgq212l5rjiemiipibm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.last.RandyHidayat_1202154191_Modul6",
+            "certificate_hash": "79461a954e64d79cdb3df429b434744b8b6174f3"
+          }
+        },
+        {
+          "client_id": "505178926255-levhm0h5k79bheti96mfdpkarr41sm14.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7TEwOi58AqQ8-3iX6k1x96IIQ6Fpr9-k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505178926255-levhm0h5k79bheti96mfdpkarr41sm14.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
